@@ -31,12 +31,3 @@
 
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChinmoyBiswas&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=ChinmoyBiswas&bg_color=0d1117&color=00FFFF&line=00FFFF&point=ffffff&area=true&hide_border=true" />
-</p>
-
-
