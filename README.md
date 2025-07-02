@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">
+  Hey there 👋, I'm Chinmoy Biswas!
+</h1>
 
-<!--
-**chinmoy987/chinmoy987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8e53f0&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;React+%7C+Node.js+%7C+MongoDB+%7C+PostgreSQL;Passionate+about+building+web+apps+that+scale" alt="Typing SVG" />
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+- 🔭 I’m currently building full-stack apps using **React**, **Node.js**, **Next.js**, and **MongoDB**
+- 🌱 Learning **DevOps**, **CI/CD**, and **Cloud (AWS/Render)**
+- 🧩 Open to collaborating on exciting full-stack projects
+- 📫 Reach me at: **chinmoybiswas488@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,graphql,tailwind,docker,git,linux,figma" />
+</p>
+
+---
+
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChinmoyBiswas&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=ChinmoyBiswas&bg_color=0d1117&color=00FFFF&line=00FFFF&point=ffffff&area=true&hide_border=true" />
+</p>
+
+
