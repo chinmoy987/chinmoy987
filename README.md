@@ -1,3 +1,5 @@
+Author - Chinmoy Biswas
+
 <h1 align="center">
   Hey there 👋, I'm Chinmoy Biswas!
 </h1>
